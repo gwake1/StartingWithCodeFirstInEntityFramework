@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FighterAircraft
+namespace ClassLibrary1
 {
-    class Order
+    public class Order
     {
         public int OrderId { get; set; }
         public string Customer { get; set; }
